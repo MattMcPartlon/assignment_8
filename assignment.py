@@ -1,6 +1,6 @@
 """
 
-12 points.
+20 points.
 
 Create the data structure from theory question 1, part b.
 
